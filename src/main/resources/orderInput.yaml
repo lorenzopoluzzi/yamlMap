@@ -1,0 +1,9 @@
+regole_ruoli:
+  avvocato:
+    attivo:
+      - altroprofessionista
+      - funzionarioentepubblico
+      - cassazionista
+      - funzionariosportelloprossimita
+    radiato:
+      - altroprofessionista
